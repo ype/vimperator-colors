@@ -1,0 +1,42 @@
+hi Bell border: none; background: #343C40;
+hi Boolean color: #AAABAD;
+hi CmdLine color: #AAABAD; background: #343C40; font-size:14pt
+hi CmdLine>* font-family: "Overpass"; font-size: 14pt; height: 24px;
+
+hi CompDesc width: auto; font-size:14pt; font-family: "Overpass"; font-style: italic;
+hi CompIcon>img width: auto; max-height: 16px; vertical-align: middle;
+hi CompItem background: #343C40;
+hi CompItem>* height: auto; padding: 0 8px;
+hi CompItem[selected] color: #343C40; background: #AAABAD;
+hi CompTitle background: #343C40; font-family: "Overpass"; font-size: 14pt;
+hi CompTitle>* color: #AAABAD; padding: 2px 8px;
+
+hi Disabled color: #AAABAD;
+hi Enabled color: #AAABAD;
+
+hi ErrorMsg color: #F56C66; font-family: "Overpass Bold"; font-size: 12pt;
+hi Filter color: #343C40; background: #AAABAD;
+hi FrameIndicator background: #AAABAD; opacity: 0.5; z-index: 999; position: fixed; top: 0; bottom: 0; left: 0; right: 0;
+
+hi HelpNote color: #8859B3;
+hi HelpWarning color: #B359A4;
+
+hi Hint font-family: "Overpass Light"; font-size: 12pt; color: #AAABAD; background: #343C40; padding: 2px;
+hi HintActive color: #AAABAD; background: #343C40;
+hi HintElem background: transparent;
+hi HintImage opacity: 0.5;
+
+hi InfoMsg color: #AAABAD;
+hi Keyword color: #AAABAD;
+hi LineNr color: #AAABAD;
+hi ModeMsg color: #AAABAD; background: transparent; padding: 0 8px; font-family: "Overpass Light"; font-size: 12pt;
+hi MoreMsg color: #AAABAD; font-family: "Overpass Light"; font-size: 14pt;
+hi NonText color: #AAABAD;
+hi Normal color: #AAABAD; background: #343C40; font-family: "Overpass"; font-size: 14pt;
+hi PromptText color: #AAABAD; padding-top: 4px;
+hi Question color: #AAABAD;
+
+hi StatusLine color: #AAABAD; background: #343C40; font-family: "Overpass Light"; font-style: italic; font-size: 12pt;
+
+hi Title color: #AAABAD;
+hi WarningMsg color: #AAABAD;
